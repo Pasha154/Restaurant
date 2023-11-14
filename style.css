@@ -31,7 +31,21 @@ header{
 .nav-item:hover{
     color: crimson;
 }
+.block{
+    display: block;
+}
+.slide{
+    position: absolute;
 
+}
+button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+.disp{
+    display: none;
+}
 .cart{
     position: relative;
     border-right:  1px solid #ffff;

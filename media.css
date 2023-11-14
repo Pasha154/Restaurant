@@ -1,3 +1,10 @@
+@media (max-width: 1500px) {
+    .bg-menu{
+        display: none;
+    }
+
+}
+
 @media (max-width: 1300px){
     .gallery-content{
         display: block;
@@ -73,6 +80,12 @@
     }
     .burgers-image{
         display: none;
+    }
+    .header_logo{
+        margin-left: 50px;
+    }
+    .bg-menu{
+        margin-right: 50px;
     }
 }
 @media (max-width: 900px){
